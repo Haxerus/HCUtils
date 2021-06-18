@@ -1,10 +1,10 @@
 displayName = Hardcore Utilities
 author = Haxerus
-version = 1.0
+version = 1.0.1
 buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, docs\*, .github\*, .gitignore, *.md
 hideCode = false
 hideResources = false
 includeSource = true
 includePDB = true
 side=Both
-homepage=https://www.youtube.com/watch?v=dQw4w9WgXcQ
+homepage=https://github.com/Haxerus/HCUtils

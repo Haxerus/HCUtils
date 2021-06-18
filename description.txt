@@ -8,5 +8,8 @@ Designed to be used with TMumbleLink.
 
 Changelog
 
+v1.0.1
+- Added mod icon
+
 v1.0
 - Release
