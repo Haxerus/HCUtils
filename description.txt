@@ -1,0 +1,12 @@
+This is a mod that aids in the production of Terraria Hardcore videos.
+
+Features:
+- Allows you to hide player death messages and map markers
+- Allows you to hide the offscreen player text when on the same team
+
+Designed to be used with TMumbleLink.
+
+Changelog
+
+v1.0
+- Release
